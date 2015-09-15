@@ -1,0 +1,95 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Preface: Why this book?}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Anatomy of a computable problem}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Power of estimation}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Beginning is somewhere here}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Fermi problems}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}What are they?}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Examples}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Example 1. How many tennis balls would you need to fill a cement truck?}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Example 2. How many handcuffs would it take in order to create an interlocked chain from the Earth to the Sun?}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Practice Fermi problems}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Answers}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Advanced: Estimating error of Fermi calculation}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Avoid time consuming algorithms}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}This won't take long}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Factorial - Stirling's approximation}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Approximating $\pi $ with Riemann integral}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Mathematics celebrities}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Numbers}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Can't have math textbook without $\pi $}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Euler's number \textit {e}}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Limit definition and origin}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}Why am \textit {i} here?}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.4}Pearl of mathematics}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Advanced: Proof through Taylor expansions}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Equations}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Normal distribution}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Fourier transform}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}Chaos theory}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Nobody knows if this is the introduction}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Lemming population}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{May's logistic map}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Models: Complexity from simplicity}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Cellular Automaton}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Elementary cellular automaton}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Introduction}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{New kind of science}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Game of life}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}Schelling's segregation model}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}State machines}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Transitioning here}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}SIS model}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Advanced: SIS model analytical solution}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}SIR model}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.4}Cellular approach to SIR}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Agent based models}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Standing ovation model}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Examples of artificial evolution }{18}

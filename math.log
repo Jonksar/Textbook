@@ -1,0 +1,922 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.2)  15 SEP 2015 21:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**math.tex
+(./math.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2014/06/25 v2.9a programmable bibliographies (PK/JW/AB)
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex1.sty
+Package: biblatex1 2014/06/25 v2.9a programmable bibliographies (bibtex) (PK/JW
+/AB)
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count88
+)
+\etb@tempcnta=\count89
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count90
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count91
+\c@listtotal=\count92
+\c@listcount=\count93
+\c@liststart=\count94
+\c@liststop=\count95
+\c@citecount=\count96
+\c@citetotal=\count97
+\c@multicitecount=\count98
+\c@multicitetotal=\count99
+\c@instcount=\count100
+\c@maxnames=\count101
+\c@minnames=\count102
+\c@maxitems=\count103
+\c@minitems=\count104
+\c@citecounter=\count105
+\c@savedcitecounter=\count106
+\c@uniquelist=\count107
+\c@uniquename=\count108
+\c@refsection=\count109
+\c@refsegment=\count110
+\c@maxextrayear=\count111
+\c@maxextraalpha=\count112
+\c@abbrvpenalty=\count113
+\c@highnamepenalty=\count114
+\c@lownamepenalty=\count115
+\c@maxparens=\count116
+\c@parenlevel=\count117
+\blx@tempcnta=\count118
+\blx@tempcntb=\count119
+\blx@tempcntc=\count120
+\blx@maxsection=\count121
+\blx@maxsegment=\count122
+\blx@notetype=\count123
+\blx@parenlevel@text=\count124
+\blx@parenlevel@foot=\count125
+\labelnumberwidth=\skip43
+\labelalphawidth=\skip44
+\shorthandwidth=\skip45
+\biblabelsep=\skip46
+\bibitemsep=\skip47
+\bibnamesep=\skip48
+\bibinitsep=\skip49
+\bibparsep=\skip50
+\bibhang=\skip51
+\blx@auxin=\read1
+\blx@auxout=\write3
+\c@mincomprange=\count126
+\c@maxcomprange=\count127
+\c@mincompwidth=\count128
+\c@labelname=\count129
+\c@savedlabelname=\count130
+\c@author=\count131
+\c@savedauthor=\count132
+\c@shortauthor=\count133
+\c@savedshortauthor=\count134
+\c@editor=\count135
+\c@savededitor=\count136
+\c@editora=\count137
+\c@savededitora=\count138
+\c@editorb=\count139
+\c@savededitorb=\count140
+\c@editorc=\count141
+\c@savededitorc=\count142
+\c@shorteditor=\count143
+\c@savedshorteditor=\count144
+\c@bookauthor=\count145
+\c@savedbookauthor=\count146
+\c@translator=\count147
+\c@savedtranslator=\count148
+\c@annotator=\count149
+\c@savedannotator=\count150
+\c@commentator=\count151
+\c@savedcommentator=\count152
+\c@introduction=\count153
+\c@savedintroduction=\count154
+\c@foreword=\count155
+\c@savedforeword=\count156
+\c@afterword=\count157
+\c@savedafterword=\count158
+\c@holder=\count159
+\c@savedholder=\count160
+\c@namea=\count161
+\c@savednamea=\count162
+\c@nameb=\count163
+\c@savednameb=\count164
+\c@namec=\count165
+\c@savednamec=\count166
+\c@institution=\count167
+\c@savedinstitution=\count168
+\c@language=\count169
+\c@savedlanguage=\count170
+\c@location=\count171
+\c@savedlocation=\count172
+\c@organization=\count173
+\c@savedorganization=\count174
+\c@origlocation=\count175
+\c@savedoriglocation=\count176
+\c@origpublisher=\count177
+\c@savedorigpublisher=\count178
+\c@pageref=\count179
+\c@savedpageref=\count180
+\c@publisher=\count181
+\c@savedpublisher=\count182
+\c@lista=\count183
+\c@savedlista=\count184
+\c@listb=\count185
+\c@savedlistb=\count186
+\c@listc=\count187
+\c@savedlistc=\count188
+\c@listd=\count189
+\c@savedlistd=\count190
+\c@liste=\count191
+\c@savedliste=\count192
+\c@listf=\count193
+\c@savedlistf=\count194
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2014/06/25 v2.9a biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 
+\c@textcitecount=\count195
+\c@textcitetotal=\count196
+\c@textcitemaxnames=\count197
+\c@biburlnumpenalty=\count198
+\c@biburlucpenalty=\count199
+\c@biburllcpenalty=\count200
+\c@smartand=\count201
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-natbib.def
+File: blx-natbib.def 2014/06/25 v2.9a biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count202
+\c@bbx:relatedtotal=\count203
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2014/06/25 v2.9a biblatex citation style (PK/JW/AB)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count204
+\Gm@cntv=\count205
+\c@Gm@tempcnt=\count206
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count207
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count208
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count209
+\lst@gtempboxa=\box28
+\lst@token=\toks18
+\lst@length=\count210
+\lst@currlwidth=\dimen113
+\lst@column=\count211
+\lst@pos=\count212
+\lst@lostspace=\dimen114
+\lst@width=\dimen115
+\lst@newlines=\count213
+\lst@lineno=\count214
+\lst@maxwidth=\dimen116
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count215
+\lst@skipnumbers=\count216
+\lst@framebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen117
+\extrarowheight=\dimen118
+\NC@list=\toks19
+\extratabsurround=\skip52
+\backup@length=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen119
+\pgfutil@tempdimb=\dimen120
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box30
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen121
+\pgf@y=\dimen122
+\pgf@xa=\dimen123
+\pgf@ya=\dimen124
+\pgf@xb=\dimen125
+\pgf@yb=\dimen126
+\pgf@xc=\dimen127
+\pgf@yc=\dimen128
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count217
+\c@pgf@countb=\count218
+\c@pgf@countc=\count219
+\c@pgf@countd=\count220
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count221
+\pgfsyssoftpath@bigbuffer@items=\count222
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen129
+\pgfmath@count=\count223
+\pgfmath@box=\box31
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count224
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen130
+\pgf@picmaxx=\dimen131
+\pgf@picminy=\dimen132
+\pgf@picmaxy=\dimen133
+\pgf@pathminx=\dimen134
+\pgf@pathmaxx=\dimen135
+\pgf@pathminy=\dimen136
+\pgf@pathmaxy=\dimen137
+\pgf@xx=\dimen138
+\pgf@xy=\dimen139
+\pgf@yx=\dimen140
+\pgf@yy=\dimen141
+\pgf@zx=\dimen142
+\pgf@zy=\dimen143
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen144
+\pgf@path@lasty=\dimen145
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen146
+\pgf@shorten@start@additional=\dimen147
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box32
+\pgf@hbox=\box33
+\pgf@layerbox@main=\box34
+\pgf@picture@serial@count=\count225
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen148
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen149
+\pgf@pt@y=\dimen150
+\pgf@pt@temp=\dimen151
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen153
+\pgf@sys@shading@range@num=\count226
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box35
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box36
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen154
+\pgf@nodesepend=\dimen155
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen156
+\pgffor@skip=\dimen157
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count227
+\pgfplotmarksize=\dimen158
+)
+\tikz@lastx=\dimen159
+\tikz@lasty=\dimen160
+\tikz@lastxsaved=\dimen161
+\tikz@lastysaved=\dimen162
+\tikzleveldistance=\dimen163
+\tikzsiblingdistance=\dimen164
+\tikz@figbox=\box37
+\tikz@figbox@bg=\box38
+\tikz@tempbox=\box39
+\tikz@tempbox@bg=\box40
+\tikztreelevel=\count228
+\tikznumberofchildren=\count229
+\tikznumberofcurrentchild=\count230
+\tikz@fig@count=\count231
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count232
+\pgfmatrixcurrentcolumn=\count233
+Normal \count register pool exhausted, switching to extended pool.
+\pgf@matrix@numberofcolumns=\count277
+)
+\tikz@expandcount=\count278
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.0 (rcs-revision 1.16)
+\arrowsize=\dimen165
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
+)
+\@quotelevel=\count279
+\@quotereset=\count280
+
+(./math.aux)
+\openout1 = `math.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+Package biblatex Info: No input encoding detected.
+(biblatex)             Assuming 'ascii'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'ascii'.
+\openout3 = `math-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'math.bbl' found.
+ (./math.bbl)
+Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference segment=0 on input line 38.
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen166
+\scratchbox=\box41
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen167
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks33
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count287
+
+ABD: EveryShipout initializing macros (./math.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+)
+\tf@toc=\write5
+\openout5 = `math.toc'.
+
+ [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Chapter 1.
+[2
+
+] [3]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+[4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+[6]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 167.
+ <circle.png, id=33, 1857.94125pt x 897.3525pt>
+File: circle.png Graphic file (type png)
+ <use circle.png>
+Package pdftex.def Info: circle.png used on input line 175.
+(pdftex.def)             Requested size: 371.58167pt x 179.46732pt.
+ [7]
+<riemann_int_circle.png, id=39, 647.41875pt x 273.02pt>
+File: riemann_int_circle.png Graphic file (type png)
+
+<use riemann_int_circle.png>
+Package pdftex.def Info: riemann_int_circle.png used on input line 208.
+(pdftex.def)             Requested size: 258.9629pt x 109.20605pt.
+ [8 <./circle.png>] [9 <./riemann_int_circle.png>]
+Chapter 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 224.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 224.
+[10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+[11] <lemmings.png, id=55, 578.16pt x 433.62pt>
+File: lemmings.png Graphic file (type png)
+ <use lemmings.png>
+Package pdftex.def Info: lemmings.png used on input line 290.
+(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--292
+
+ []
+
+[12] [13 <./lemmings.png>]
+Chapter 4.
+[14
+
+]
+Missing character: There is no ; in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 347.
+ <SISeq.png, id=66, 421.575pt x 316.18124pt>
+File: SISeq.png Graphic file (type png)
+ <use SISeq.png>
+Package pdftex.def Info: SISeq.png used on input line 365.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+ [15]
+Missing character: There is no ; in font nullfont!
+ [16 <./SISeq.png (PNG copy)>] <SIReq.png, id=75, 421.575pt x 316.18124pt>
+File: SIReq.png Graphic file (type png)
+
+<use SIReq.png>
+Package pdftex.def Info: SIReq.png used on input line 407.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+ <france_density.png, id=76, 5391.14125pt x 5177.3425pt>
+File: france_density.png Graphic file (type png)
+
+<use france_density.png>
+Package pdftex.def Info: france_density.png used on input line 417.
+(pdftex.def)             Requested size: 213.38785pt x 213.37842pt.
+
+<france_density_SIR.png, id=77, 945.5325pt x 946.53625pt>
+File: france_density_SIR.png Graphic file (type png)
+
+<use france_density_SIR.png>
+Package pdftex.def Info: france_density_SIR.png used on input line 418.
+(pdftex.def)             Requested size: 213.38487pt x 213.39476pt.
+ [17 <./SIReq.png (PNG copy)>] [18 <./france_density.png (PNG copy)> <./france_
+density_SIR.png>] (./math.aux)
+Package logreq Info: Writing requests to 'math.run.xml'.
+\openout1 = `math.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 18589 strings out of 493105
+ 355984 string characters out of 6137073
+ 528382 words of memory out of 5000000
+ 21741 multiletter control sequences out of 15000+600000
+ 12732 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,8n,54p,1057b,1008s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on math.pdf (18 pages, 5985922 bytes).
+PDF statistics:
+ 129 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+
